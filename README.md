@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=abd434&height=120&section=header"/>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Maps&size=35&duration=4000&pause=1000&color=6EF762&center=true&vCenter=true&random=false&width=435&lines=Prazer%2C+Murilo+de+Jesus)](https://git.io/typing-svg)
